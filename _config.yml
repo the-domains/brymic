@@ -1,0 +1,28 @@
+name: brymic
+favicon: null
+layout_spectrum: 0.5561542110517621
+typography_spectrum: 0.7911652598995715
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.5156471587251872
+  lightness: 0.8059384429361671
+  saturation: 0.7544255247339606
+  rhythmicContrast: 0.8289191683288664
+purpose: []
