@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Bryant – Digital Media ]]></title>
+        <description><![CDATA[Michael Bryant – Digital Media ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 22:12:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xaf1/t31.0-8/11425084_10206419820830334_6890471674618644452_o.jpg">]]></description>
+            <link>undefined76ab7dd3-ca5b-4cc8-89c4-971328a89444/index.html</link>
+            <guid isPermaLink="false">76ab7dd3-ca5b-4cc8-89c4-971328a89444</guid>
+            <pubDate>Thu, 28 Jan 2016 22:12:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
