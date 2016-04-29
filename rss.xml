@@ -4,8 +4,15 @@
         <description><![CDATA[Michael Bryant – Digital Media ]]></description>
         <link>https://thegrid.ai/brymic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 22:16:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 07:36:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/brymic/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Raider Club Auction - 2016]]></title>
+            <description><![CDATA[<article><h1>Raider Club Auction - 2016</h1><p>A video for Southern Oregon University's Raider Club Auction to support student-athlete scholarships.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b23c0ff99e3e247508d3c632ec30409d64e0fdb.jpg"></article>]]></description>
+            <link>https://vimeo.com/163678985</link>
+            <guid isPermaLink="false">5fba3688-4823-48eb-9f43-1812a1047a3a</guid>
+            <pubDate>Fri, 29 Apr 2016 07:35:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xfl1/t31.0-8/s2048x2048/12273643_10207534074005967_3224548838541417120_o.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/brymic/7502ee04-d833-4b2c-abce-1f25b45b17fb/index.html</link>
             <guid isPermaLink="false">7502ee04-d833-4b2c-abce-1f25b45b17fb</guid>
             <pubDate>Thu, 28 Jan 2016 22:12:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://scontent-sjc2-1.xx.fbcdn.net/hphotos-xaf1/t31.0-8/11425084_10206419820830334_6890471674618644452_o.jpg">]]></description>
-            <link>https://thegrid.ai/brymic/76ab7dd3-ca5b-4cc8-89c4-971328a89444/index.html</link>
-            <guid isPermaLink="false">76ab7dd3-ca5b-4cc8-89c4-971328a89444</guid>
-            <pubDate>Thu, 28 Jan 2016 22:12:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
