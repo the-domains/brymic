@@ -40,8 +40,8 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/127864285'
 title: 'SOU Film Club - Damn, What a Dame'
-datePublished: '2016-04-29T07:40:05.269Z'
-dateModified: '2016-04-29T07:39:41.959Z'
+datePublished: '2016-04-29T07:40:05.317Z'
+dateModified: '2016-04-29T07:39:03.554Z'
 starred: false
 sourcePath: _posts/2016-04-29-sou-film-club-damn-what-a-dame.md
 published: true
